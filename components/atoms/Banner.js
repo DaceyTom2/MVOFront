@@ -30,7 +30,7 @@ Banner.propTypes = {
   /**
    * text area for headline in the banner
    */
-  headline: PropTypes.string.isRequired,
+  headline: PropTypes.string,
 };
 
 export default Banner;
